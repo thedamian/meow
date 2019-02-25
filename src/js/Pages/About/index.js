@@ -15,11 +15,12 @@ export default class AboutPage extends Component {
     render() {
         return (
             <BubbleSlide previous="/" next="/speech">
-                <Bubble>My name is Sam Bellen.</Bubble>
-                <Bubble>I'm a software engineer at <span className={Styles.mwl}>madewithlove</span>.</Bubble>
-                <Bubble>I'm a co-organizer of the <span className={Styles.fronteers}>Fronteers</span> meetups.</Bubble>
-                <Bubble>You can find me online as <a href="https://github.com/sambego" target="_blank">Sambego</a>.</Bubble>
-                <Bubble>I like cats. 😻</Bubble>
+                <Bubble>My name is Damian Montero.</Bubble>
+                <Bubble>Go to Live.BocaJS.org to follow along.</Bubble>
+                <Bubble>I'm a software engineer at <span className={Styles.mwl}>Vertical Bridge</span>.</Bubble>
+                <Bubble>I'm a Organizer of the <span className={Styles.fronteers}>Boca JS</span> meetups.</Bubble>
+                <Bubble>You can find me online as <a href="https://github.com/thedamian" target="_blank">Damian Montero</a>.</Bubble>
+                <Bubble>This is a copy of a presentation created by Sam Bellen. And he LOVES cats! 😻</Bubble>
                 <Bubble><img src={Poes} alt="My cat, Poes." className={Styles.poes}/></Bubble>
             </BubbleSlide>
         );

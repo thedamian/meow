@@ -11,7 +11,7 @@ export default class AcknowledgementPage extends Component {
                         learned some new things you can do with a browser!
                     </Bubble>
                     <Bubble>
-                        You can find this presentation at{' '}
+                        You can find the ORIGINAL presentation at{' '}
                         <a href="https://meow.sambego.be">
                             https://meow.sambego.be
                         </a>.

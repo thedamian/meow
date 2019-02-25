@@ -1,5 +1,0 @@
-# Redirect sambego.be to sambeg.tech
-https://meow.sambego.be/* https://meow.sambego.tech/:splat 301!
-
-# Suport the history API
-/* /index.html 200

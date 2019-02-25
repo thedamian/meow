@@ -1,7 +1,7 @@
 const Config = {
-    event: 'JFokus',
-    location: 'Stockholm',
-    composer: 'ABBA',
+    event: 'South Florida Code Camp',
+    location: 'Fort Lauderdale',
+    composer: 'Ariana Grande',
 };
 
 export default Config;
