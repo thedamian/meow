@@ -16,7 +16,7 @@ export default class AboutPage extends Component {
         return (
             <BubbleSlide previous="/" next="/speech">
                 <Bubble>My name is Damian Montero.</Bubble>
-                <Bubble>Go to Live.BocaJS.org to follow along.</Bubble>
+                <Bubble>Go to Meow.FloridaJS.com to follow along.</Bubble>
                 <Bubble>I'm a software engineer at <span className={Styles.mwl}>Vertical Bridge</span>.</Bubble>
                 <Bubble>I'm a Organizer of the <span className={Styles.fronteers}>Boca JS</span> meetups.</Bubble>
                 <Bubble>You can find me online as <a href="https://github.com/thedamian" target="_blank">Damian Montero</a>.</Bubble>
